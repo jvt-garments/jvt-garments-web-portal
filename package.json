@@ -1,0 +1,11 @@
+{
+  "name": "jvt-garments",
+  "version": "1.0.0",
+  "description": "e-commerce portal",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JVT Garments",
+  "license": "ISC"
+}
