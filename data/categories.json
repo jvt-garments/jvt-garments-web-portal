@@ -1,0 +1,17 @@
+[
+    {
+        "name": "couple-tshirts",
+        "order": 1,
+        "enabled" : true
+    },
+    {
+        "name": "famuly-tshirts",
+        "order": 2,
+        "enabled" : true
+    },
+    {
+        "name": "group-tshirts",
+        "order": 3,
+        "enabled" : false
+    }
+]
