@@ -10,7 +10,7 @@ function createProductCard(product) {
   return `<div class="border px-2 py-2 rounded-xl shadow-xl">
             <div class="text-center">
               <a href="/images/${category}/${filename}" data-lightbox="image-1" data-title="${code} - ($${price})">
-                <img src="/images/${category}/${filename}" alt="${code}" class="w-[200px] mx-auto" />
+                <img src="images/${category}/${filename}" alt="${code}" class="w-[200px] mx-auto" />
               </a>
             </div>
             <div class="text-center py-2">
