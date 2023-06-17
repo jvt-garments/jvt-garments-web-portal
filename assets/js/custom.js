@@ -7,7 +7,7 @@ function createProductCard(product) {
   const { category, price, code, filename } = product;
   return `<div class="border px-2 py-2 rounded-xl shadow-xl">
             <div class="text-center">
-                <img src="/images/${category}/${filename}" alt="${code}" class="w-[200px] mx-auto" />
+                <img src="images/${category}/${filename}" alt="${code}" class="w-[200px] mx-auto" />
             </div>
             <div class="text-center py-2">
                 <div class="text-[16px] mb-2">${code}</div>
