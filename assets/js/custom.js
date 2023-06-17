@@ -58,4 +58,8 @@ $(document).ready(function () {
     const category = $(this).data("id");
     fetchCategoryProducts(category);
   });
+
+  lightbox.option({
+    alwaysShowNavOnTouchDevices: true,
+  });
 });
