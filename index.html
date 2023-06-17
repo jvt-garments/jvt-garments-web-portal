@@ -4,11 +4,12 @@
 <head>
   <title>JVT Garments</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="assets/css/lightbox.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="assets/css/main.css">
 </head>
 
 <body>
-  <header>
+  <header class="fixed top-0 left-0 w-full">
     <h1 class="py-2">JVT Garments</h1>
     <div class="w-full  mt-2  flex items-center justify-center">
       <div class="overflow-x-scroll">
@@ -18,22 +19,23 @@
     </div>
   </header>
 
-  <div class="container mx-auto">
+  <div class="container pt-[180px] mx-auto">
     <div
       class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 space-x-3 space-y-4 px-4 py-4"
       id="productGrid">
-
     </div>
   </div>
 
-  <footer>
+  <footer class="sticky bottom-0">
     <p>&copy; JVT Garments. All rights reserved.</p>
     <p>Email: <a href="mailto:contact.jvt.garments@gmail.com">contact.jvt.garments@gmail.com</a></p>
   </footer>
+
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"
     integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="assets/js/lightbox.min.js"></script>
   <script src="assets/js/custom.js"></script>
 </body>
 
