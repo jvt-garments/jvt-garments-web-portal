@@ -1,44 +1,40 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>JVT Garments</title>
-    <link rel="stylesheet" href="main.css">
-  </head>
-  <body>
-    <div id="wrapper">
-      <header>
-        <h1>JVT Garments</h1>
-        <div class="tabs">
-          <div class="tab">Category 1</div>
-          <div class="tab">Category 2</div>
-          <div class="tab">Category 3</div>
-          <!-- Add more tabs for categories as needed -->
-        </div>
-      </header>
 
-      <main>
-        <div class="product-grid">
-          <a href="category1.html" class="product">
-            <img src="imgs/img1.png" alt="Product Image" />
-            <h3>Category 1</h3>
-          </a>
-          <a href="category2.html" class="product">
-            <img src="imgs/img1.png" alt="Product Image" />
-            <h3>Category 2</h3>
-          </a>
-          <a href="category3.html" class="product">
-            <img src="imgs/img1.png" alt="Product Image" />
-            <h3>Category 3</h3>
-          </a>
-          <!-- Add more category grid items as needed -->
-        </div>
-      </main>
+<head>
+  <title>JVT Garments</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
 
-      <footer>
-        <p>&copy; JVT Garments. All rights reserved.</p>
-        <p>Email: <a href="mailto:contact.jvt.garments@gmail.com">contact.jvt.garments@gmail.com</a></p>
-      </footer>
+<body>
+  <header>
+    <h1 class="py-2">JVT Garments</h1>
+    <div class="w-full  mt-2  flex items-center justify-center">
+      <div class="overflow-x-scroll">
+        <div class="flex space-x-2 justify-start" id="categoryTabs">
+        </div>
+      </div>
     </div>
-  </body>
+  </header>
+
+  <div class="container mx-auto">
+    <div
+      class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 space-x-3 space-y-4 px-4 py-4"
+      id="productGrid">
+
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; JVT Garments. All rights reserved.</p>
+    <p>Email: <a href="mailto:contact.jvt.garments@gmail.com">contact.jvt.garments@gmail.com</a></p>
+  </footer>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"
+    integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="assets/js/custom.js"></script>
+</body>
+
 </html>
-``

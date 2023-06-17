@@ -1,0 +1,41 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Example styles for banner/header */
+header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+/* Example styles for tabs */
+.tab {
+  background-color: #ccc;
+  cursor: pointer;
+}
+
+.tab.active {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+}
+
+/* Example styles for footer */
+footer {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+  margin-top: auto;
+}
+
+.footer-section {
+  margin-bottom: 0px;
+}
