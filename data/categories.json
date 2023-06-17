@@ -47,6 +47,6 @@
     {
         "name": "hoodies ",
         "order": 10,
-        "enabled" : true
+        "enabled" : false
     }
 ]
