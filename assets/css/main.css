@@ -30,12 +30,11 @@ h1 {
 
 /* Example styles for footer */
 footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   background-color: #f0f0f0;
   padding: 20px;
   text-align: center;
-  margin-top: auto;
-}
-
-.footer-section {
-  margin-bottom: 0px;
 }

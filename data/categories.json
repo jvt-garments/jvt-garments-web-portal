@@ -35,12 +35,12 @@
         "enabled" : true
     },
     {
-        "name": "kids-boy-tshirts ",
+        "name": "kids-boy-tshirts",
         "order": 8,
         "enabled" : true
     },
     {
-        "name": "kids-girl-tshirts ",
+        "name": "kids-girl-tshirts",
         "order": 9,
         "enabled" : true
     },
