@@ -1,5 +1,5 @@
-var allProducts = [];
-var allProductsCategories = [];
+let allProducts = [];
+let allProductsCategories = [];
 
 function formatCategory(category) {
   // replace dashes with spaces and capitalize first letter of each word
@@ -28,16 +28,16 @@ function fetchCategoryProducts(category) {
       $("#productGrid").append(createProductCard(item));
     }
   });
-}
+  $("#productGrid").css("margin-bottom", "100px");}
 
 $(document).ready(function () {
   $.getJSON("data/categories.json", function (data) {
     allProductsCategories = data.filter((obj) => obj.enabled === true);
     allProductsCategories.sort((a, b) => a.order - b.order);
-    console.log(allProductsCategories);
+    //console.log(allProductsCategories);
 
     allProductsCategories.forEach((element) => {
-      console.log(element.name);
+      //console.log(element.name);
       $("#categoryTabs").append(
         `<div class="tab min-w-[150px] px-2 py-2 text-center btn-category" data-id="${
           element.name

@@ -4,8 +4,6 @@ html {
   margin: 0;
   padding: 0;
 }
-
-/* Example styles for banner/header */
 header {
   background-color: #f0f0f0;
   padding: 20px;
@@ -16,19 +14,23 @@ h1 {
   font-size: 24px;
   margin: 0;
 }
-
-/* Example styles for tabs */
 .tab {
-  background-color: #ccc;
+  padding: 10px 20px;
+  color: #333;
+  font-weight: bold;
   cursor: pointer;
+  transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;
+  border: 1px solid grey;
+  border-radius: 20px;
 }
 
 .tab.active {
-  background-color: #f0f0f0;
-  border: 1px solid #ccc;
+  background-color: #007bff;
+  color: #fff;
+  border-color: #007bff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-/* Example styles for footer */
 footer {
   position: fixed;
   left: 0;
@@ -38,7 +40,7 @@ footer {
   padding: 10px;
   text-align: center;
 }
-.icons{
+.icons {
   height: 40px;
   width: 40px;
   display: inline-block;
