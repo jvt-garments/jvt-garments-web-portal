@@ -49,12 +49,10 @@ $(document).ready(function () {
   });
 
   $.getJSON("data/data.json", function (data) {
-
     allProducts = data;
-    
+
     fetchCategoryProducts(allProductsCategories[0].name);
     $(".btn-category").first().addClass("active");
-
   });
 
   $("body").on("click", ".btn-category", function () {

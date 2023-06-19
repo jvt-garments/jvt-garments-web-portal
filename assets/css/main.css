@@ -35,6 +35,12 @@ footer {
   bottom: 0;
   width: 100%;
   background-color: #f0f0f0;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
+}
+.icons{
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  padding: 10px;
 }
