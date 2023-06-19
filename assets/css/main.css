@@ -46,3 +46,8 @@ footer {
   display: inline-block;
   padding: 10px;
 }
+@media screen and (max-width: 768px) {
+  #productGrid {
+    margin-bottom: 20px;
+  }
+}
