@@ -28,7 +28,7 @@ function fetchCategoryProducts(category) {
       $("#productGrid").append(createProductCard(item));
     }
   });
-  $("#productGrid").css("margin-bottom", "100px");}
+  $("#productGrid").css("margin-bottom", "5%");}
 
 $(document).ready(function () {
   $.getJSON("data/categories.json", function (data) {
