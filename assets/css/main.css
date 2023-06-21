@@ -48,6 +48,21 @@ footer {
 }
 @media (max-width: 767px) {
   .container {
-    padding-bottom: 100px; /* Adjust the value as needed */
+    padding-bottom: 100px;
   }
+}
+.title-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-icon {
+  margin-right: 10px; 
+  height: 60px;
+  width: 60px;
+}
+
+.title {
+  font-size: 24px;
 }
