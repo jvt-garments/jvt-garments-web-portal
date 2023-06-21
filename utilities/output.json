@@ -194,18 +194,6 @@
     {
         "category": "couple-tshirts", 
         "price": "21.99", 
-        "code": "JVT0033", 
-        "filename": "ahirahiranigujR_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "couple-tshirts", 
-        "price": "21.99", 
-        "code": "JVT0034", 
-        "filename": "ahirahiranigujb_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "couple-tshirts", 
-        "price": "21.99", 
         "code": "JVT0035", 
         "filename": "all-u-need-vitamene-gy-2_450x450_crop_center.jpg"
     }, 
@@ -472,30 +460,6 @@
         "price": "21.99", 
         "code": "JVT0079", 
         "filename": "packman-petrolblue_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "couple-tshirts", 
-        "price": "21.99", 
-        "code": "JVT0080", 
-        "filename": "patelpatlanieng-b-R_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "couple-tshirts", 
-        "price": "21.99", 
-        "code": "JVT0081", 
-        "filename": "patelpatlanieng-b_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "couple-tshirts", 
-        "price": "21.99", 
-        "code": "JVT0082", 
-        "filename": "patelpatlaniguj-R_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "couple-tshirts", 
-        "price": "21.99", 
-        "code": "JVT0083", 
-        "filename": "patelpatlaniguj-b_450x450_crop_center.jpg"
     }, 
     {
         "category": "couple-tshirts", 
@@ -798,24 +762,6 @@
         "filename": "gray_450x450_crop_center.jpg"
     }, 
     {
-        "category": "group-tshirts", 
-        "price": "10.99", 
-        "code": "JVT0134", 
-        "filename": "tshirt-boleto-jakkas_627e071e-bfb6-4993-82b6-0bd69563385b_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "group-tshirts", 
-        "price": "21.99", 
-        "code": "JVT0135", 
-        "filename": "wierdo-royal-blue_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "group-tshirts", 
-        "price": "21.99", 
-        "code": "JVT0136", 
-        "filename": "wierdo-white_450x450_crop_center.jpg"
-    }, 
-    {
         "category": "gujarati-couple-tshirts", 
         "price": "19.99", 
         "code": "JVT0137", 
@@ -1082,48 +1028,6 @@
     {
         "category": "kids-girl-tshirts", 
         "price": "8.99", 
-        "code": "JVT0181", 
-        "filename": "birthdayboy11_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "kids-girl-tshirts", 
-        "price": "8.99", 
-        "code": "JVT0182", 
-        "filename": "birthdayboy13_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "kids-girl-tshirts", 
-        "price": "8.99", 
-        "code": "JVT0183", 
-        "filename": "birthdayboy1_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "kids-girl-tshirts", 
-        "price": "8.99", 
-        "code": "JVT0184", 
-        "filename": "birthdayboy21_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "kids-girl-tshirts", 
-        "price": "8.99", 
-        "code": "JVT0185", 
-        "filename": "birthdayboy2_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "kids-girl-tshirts", 
-        "price": "8.99", 
-        "code": "JVT0186", 
-        "filename": "birthdayboy3_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "kids-girl-tshirts", 
-        "price": "8.99", 
-        "code": "JVT0187", 
-        "filename": "birthdayboy8_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "kids-girl-tshirts", 
-        "price": "8.99", 
         "code": "JVT0188", 
         "filename": "birthdaygirl1_450x450_crop_center.jpg"
     }, 
@@ -1202,18 +1106,6 @@
     {
         "category": "men-funky-tshirts", 
         "price": "10.99", 
-        "code": "JVT0201", 
-        "filename": "Eklaeklakyaupadya_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "men-funky-tshirts", 
-        "price": "10.99", 
-        "code": "JVT0203", 
-        "filename": "foodie-kismat-ani-w_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "men-funky-tshirts", 
-        "price": "10.99", 
         "code": "JVT0204", 
         "filename": "musafir-black_450x450_crop_center.jpg"
     }, 
@@ -1228,18 +1120,6 @@
         "price": "10.99", 
         "code": "JVT0206", 
         "filename": "namaste-yellow-m_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "men-funky-tshirts", 
-        "price": "10.99", 
-        "code": "JVT0207", 
-        "filename": "paghadi-1_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "gujarati-couple-tshirts", 
-        "price": "19.99", 
-        "code": "JVT0208", 
-        "filename": "raja-rani_450x450_crop_center.jpg"
     }, 
     {
         "category": "men-funky-tshirts", 
@@ -1622,12 +1502,6 @@
     {
         "category": "men-gujarati-tshirts", 
         "price": "9.99", 
-        "code": "JVT0272", 
-        "filename": "musafir-black_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "men-gujarati-tshirts", 
-        "price": "9.99", 
         "code": "JVT0273", 
         "filename": "musafir_450x450_crop_center.jpg"
     }, 
@@ -1702,12 +1576,6 @@
         "price": "9.99", 
         "code": "JVT0285", 
         "filename": "tel-leva-white_450x450_crop_center.jpg"
-    }, 
-    {
-        "category": "men-gujarati-tshirts", 
-        "price": "9.99", 
-        "code": "JVT0286", 
-        "filename": "tshirt-boleto-jakkas_627e071e-bfb6-4993-82b6-0bd69563385b_450x450_crop_center.jpg"
     }, 
     {
         "category": "men-gujarati-tshirts", 
