@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory path
-directory="/mnt/c/Users/vipul/Downloads/Deshidukan"
+directory="/mnt/c/Users/Y/Downloads/X"
 
 # CSV file name
 csv_file="output.csv"
