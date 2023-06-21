@@ -58,11 +58,7 @@ footer {
 }
 
 .logo-icon {
-  margin-right: 10px; 
   height: 60px;
   width: 60px;
-}
-
-.title {
-  font-size: 24px;
+  margin-left: 2px;
 }
